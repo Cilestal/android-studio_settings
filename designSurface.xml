@@ -1,0 +1,17 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.19427083333333334" />
+        <entry key="platform/android/common/src/main/res/layout/quest_item_content.xml" value="0.2175925925925926" />
+        <entry key="platform/android/landing/src/main/res/layout/fragment_landing.xml" value="0.17239583333333333" />
+        <entry key="platform/android/landing/src/main/res/layout/section_header.xml" value="0.2175925925925926" />
+        <entry key="platform/android/landing/src/main/res/layout/section_search.xml" value="0.2175925925925926" />
+        <entry key="platform/android/review/src/main/res/layout/review_creation_guest_activity.xml" value="0.24537037037037038" />
+        <entry key="platform/android/tasks/src/main/res/layout/quest_complete_activity.xml" value="0.5244446008759764" />
+      </map>
+    </option>
+  </component>
+</application>
