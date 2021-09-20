@@ -27,23 +27,30 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="120" />
+  <option name="SOFT_MARGINS" value="120" />
   <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
+    <option name="LAYOUT_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+      </value>
+    </option>
+    <option name="MANIFEST_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+      </value>
+    </option>
   </AndroidXmlCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
-        <package name="java.util" withSubpackages="true" static="false" />
-        <package name="kotlinx.android.synthetic" withSubpackages="true" static="false" />
+        <package name="java.util" alias="false" withSubpackages="true" />
+        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
       </value>
     </option>
-    <option name="ALIGN_IN_COLUMNS_CASE_BRANCH" value="true" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="15" />
+    <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
   </JetCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -155,5 +162,17 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="EXTENDS_LIST_WRAP" value="1" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="ASSIGNMENT_WRAP" value="5" />
   </codeStyleSettings>
 </code_scheme>
