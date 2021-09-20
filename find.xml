@@ -13,11 +13,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.swift\</mask>
-    <mask>*.xml</mask>
     <mask>*</mask>
     <mask>*.gradle</mask>
     <mask>*.dart</mask>
     <mask>*.swift</mask>
+    <mask>*.xml</mask>
     <mask>*.kt</mask>
   </component>
 </application>
