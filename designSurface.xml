@@ -15,6 +15,7 @@
         <entry key="platform/android/myquests/src/main/res/layout/my_quest_loading_state.xml" value="0.31666666666666665" />
         <entry key="platform/android/myquests/src/main/res/layout/my_quests_empty_state.xml" value="0.31666666666666665" />
         <entry key="platform/android/myquests/src/main/res/layout/my_quests_error_state.xml" value="0.31666666666666665" />
+        <entry key="platform/android/myquests/src/main/res/layout/my_quests_error_view.xml" value="0.31666666666666665" />
         <entry key="platform/android/review/src/main/res/layout/review_creation_guest_activity.xml" value="0.24537037037037038" />
         <entry key="platform/android/tasks/src/main/res/layout/quest_complete_activity.xml" value="0.5244446008759764" />
       </map>
