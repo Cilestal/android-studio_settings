@@ -43,12 +43,12 @@
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
-        <package name="java.util" alias="false" withSubpackages="true" />
+        <package name="java.util" alias="false" withSubpackages="false" />
         <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
       </value>
     </option>
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="27" />
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="27" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="38" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="41" />
     <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
   </JetCodeStyleSettings>
   <codeStyleSettings language="XML">
