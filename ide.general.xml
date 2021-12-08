@@ -16,6 +16,7 @@
       <map>
         <entry key="LiveLiteralsAvailableWidget" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="UserSentimentPanelPositive" value="false" />
       </map>
     </option>
   </component>
