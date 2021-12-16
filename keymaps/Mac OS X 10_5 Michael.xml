@@ -61,6 +61,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="Gradle.ToggleOfflineAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="KotlinShellExecute" />
   <action id="NextParameter" />
