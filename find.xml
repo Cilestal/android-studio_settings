@@ -14,9 +14,9 @@
     <mask>*.swift\</mask>
     <mask>*</mask>
     <mask>*.kt</mask>
-    <mask>*.dart</mask>
     <mask>*.xml</mask>
     <mask>*.swift</mask>
     <mask>*.gradle</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
