@@ -20,7 +20,7 @@
     <mask>*.gradle</mask>
     <mask>*.swift</mask>
     <mask>*.dart</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
